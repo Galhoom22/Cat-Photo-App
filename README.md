@@ -1,5 +1,8 @@
 # 🐱 Cat Photo App
 
+![Project Screenshot 1](images/project1.png)
+![Project Screenshot 2](images/project2.png)
+
 A simple HTML-only project built as part of the [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1) course on freeCodeCamp.
 
 ## 📸 Project Overview
